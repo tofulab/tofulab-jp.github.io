@@ -1,0 +1,2 @@
+コード中心設計
+Code Centered Design
