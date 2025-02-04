@@ -1,4 +1,4 @@
-![tofulab](/images/tofulab_logo.png)
+![tofulab](/images/tofulab_logo_old.png)
 
 [gimmick:TwitterFollow](@tofulab_inc)
 
