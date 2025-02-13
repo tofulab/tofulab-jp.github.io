@@ -3,7 +3,7 @@
 ## 画像
 
 imagesディレクトリに入れる。
-![tofulab](/images/tofulab_logo_old.png)
+![tofulab](/images/tofulab_logo.png)
 
 
 ## コラム

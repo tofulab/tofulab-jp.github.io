@@ -1,6 +1,6 @@
 # 株式会社トーフラボ (tofulab)
 
-![](http://placekitten.com/g/550/450 "a kitten")
+![](https://placecats.com/g/550/450 "a kitten")
 
 ## 概要
 
